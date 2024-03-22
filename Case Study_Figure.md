@@ -9,6 +9,8 @@
 
 * On Feburary 29th, the startup announced it had secured $675 million in funding, achieving a valuation of $2.6 billion, with notable investors including Jeff Bezos, Nvidia, Microsoft, and OpenAI.
 
+![alt text](NEW-_DSCF1820_Desktop_10923A__3_.webp)
+
 * The goal of Figure AI is to "deploy autonomous humanoid workers to supports us on a global scale"(Figure, 2024). Founded in 2022, Figure AI has brought to life the Figure 01, a versatile robot with a human-like appearance and mobility. The company envisions employing these robots in sectors like manufacturing, shipping and logistics, warehousing, and retail, particularly in areas suffering from acute labor shortages. However, the use of these robots in military or defense roles is not part of the company's plans.
 
 * Figure AI's grand vision for the Figure 01 is to enable it to carry out daily activities independently, a goal that will necessitate the development of more advanced AI technologies.
