@@ -1,6 +1,10 @@
-# Case study of an AI Company
+**# Case study of an AI Company**
+
+
 
 ## Overview and Origin
+print(_ * 20)
+
 
 * Figure AI, a pioneering startup focused on creating humanoid robots for high-risk and undesirable tasks, recently received significant endorsement from leading figures in the artificial intelligence community.
 
@@ -10,7 +14,9 @@
 
 * Figure AI's grand vision for the Figure 01 is to enable it to carry out daily activities independently, a goal that will necessitate the development of more advanced AI technologies.
 
+
 ## Business Activities
+
 
 ### Difficulty
 
@@ -49,23 +55,49 @@
 
 ## Landscape
 
+
 * Figure AI is a company specializing in AI Robotics, dedicated to creating the world's initial commercially viable autonomous humanoid robot.
 
-* 
+* Although numerous humanoid robots remain in the prototype stage or other initial phases of development, several have made their way out of research and development recently, transitioning into practical roles such as bartenders, concierge services, deep-sea exploration, and companionship for the elderly. A number are employed in warehouses and factories, where they support human workers in logistics and manufacturing tasks. Meanwhile, some humanoid robots serve primarily to fascinate and captivate, taking on roles such as orchestra conductors and welcoming hosts at conferences.
 
-* What field is the company in?
 
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
+### Examples of Humanoid Robots
 
-* What are the other major companies in this field?
+
+#### **AMECA (ENGINEERED ARTS)**
+
+![alt text](engineered-arts-humanoid-robotics.png)
+
+* Engineered Arts has introduced Ameca as its most sophisticated humanoid robot yet, marketed as a platform for experimenting with AI and machine learning technologies. Ameca comes equipped with sensors capable of monitoring movement throughout an entire room and features both facial and voice recognition abilities, enabling it to engage with humans in a natural manner while also identifying their emotions and age. The robot can express common human reactions, such as astonishment and surprise, and perform gestures such as yawning and shrugging.
+
+#### **DIGIT (AGILITY ROBOTICS)**
+
+![alt text](digit-humanoid-robotics.png)
+
+* Digit, a humanoid robot developed by Agility Robotics, is already skilled in tasks such as unloading trailers and handling packages, and it's set to tackle an even broader array of monotonous duties. Equipped with fully operational limbs, Digit can perform actions like crouching and squatting to pick up items, adjusting its balance based on the object's size and weight. Additionally, its surface plane-reading sensors enable it to navigate efficiently, avoiding obstacles along its path. In 2019, Agility Robotics formed a partnership with Ford to explore autonomous package delivery. By 2022, Agility had secured $150 million in funding from Amazon among other investors, aimed at integrating Digit more fully into the labor market.
+
+#### **JIAJIA (UNIVERSITY OF SCIENCE AND TECHNOLOGY OF CHINA)**
+
+![alt text](jiajia-humanoid-robotics.png)
+
+* Developed by a team from the University of Science and Technology of China, Jiajia represents China's inaugural venture into humanoid robots. The development of Jiajia was a three-year endeavor. During its unveiling in 2016, team leader Chen Xiaoping informed the press that plans were underway to enhance Jiajia with the ability to express emotions such as crying and laughing, as reported by the Independent. Mashable notes that Jiajia's design, closely resembling human features, was inspired by five students from the same university.
+
+#### **ALTER 3 (OSAKA UNIVERSITY AND MIXI)**
+
+![Figure 1](alter3-humanoid-robotics.png)
+
+* Named Alter 3, this advanced humanoid robot created by Osaka University and mixi operates on an artificial neural network, showcasing a remarkable musical aptitude. Previous versions of Alter have performed in opera settings. With its upgraded sensors and enhanced abilities for expression and singing, Alter 3 took its talents a step further in 2020 by leading an orchestra at Tokyo's New National Theater and participating in various live performances.
+
 
 ## Results
+
 
 * What has been the business impact of this company so far?
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 
 * How is your company performing relative to competitors in the same field?
+
 
 ## Recommendations
 
@@ -77,7 +109,3 @@
 
 * Why are these technologies appropriate for your solution?
 
-[https://www.youtube.com/watch?v=Sq1QZB5baNw]: https://www.youtube.com/watch?v=Sq1QZB5baNw
-[https://www.youtube.com/watch?v=Sq1QZB5baNw]: https://www.youtube.com/watch?v=Sq1QZB5baNw
-[def]: https://www.youtube.com/watch?v=Sq1QZB5baNw
-[def2]: https://www.youtube.com/watch?v=Sq1QZB5baNw
