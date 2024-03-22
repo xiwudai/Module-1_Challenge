@@ -1,4 +1,4 @@
-# ** Case study of an AI Company**
+# Case study of an AI Company
 
 
 
